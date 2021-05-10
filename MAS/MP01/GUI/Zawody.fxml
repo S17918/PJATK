@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="446.0" prefWidth="719.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="MP01.GUI.ZawodyController">
+    <children>
+        <Text layoutX="195.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Zapisz się na zawody">
+            <font>
+                <Font name="Consolas" size="30.0" />
+            </font>
+        </Text>
+        <Separator layoutY="52.0" prefHeight="3.0" prefWidth="719.0" />
+        <Button layoutX="535.0" layoutY="412.0" mnemonicParsing="false" onAction="#exit" prefHeight="25.0" prefWidth="107.0" text="Wyjście" />
+        <TextField id="NameField" fx:id="nameField" editable="false" layoutX="13.0" layoutY="139.0" prefHeight="25.0" prefWidth="301.0" />
+        <Text layoutX="15.0" layoutY="135.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Imię" />
+        <Button fx:id="closeButton" layoutX="408.0" layoutY="412.0" mnemonicParsing="false" onAction="#close" prefHeight="25.0" prefWidth="107.0" text="Mój Profil" />
+      <ListView id="zawodyListView" fx:id="zawodyListView" layoutX="353.0" layoutY="93.0" prefHeight="271.0" prefWidth="349.0" />
+      <Button id="chooseButton" layoutX="408.0" layoutY="377.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="234.0" text="Wybierz" onMouseClicked="#handleClick"/>
+      <TextArea fx:id="commentArea" layoutX="13.0" layoutY="311.0" prefHeight="83.0" prefWidth="301.0" />
+      <Text layoutX="13.0" layoutY="307.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Komentarz" />
+      <TextField id="surnameField" fx:id="surnameField" editable="false" layoutX="13.0" layoutY="181.0" prefHeight="25.0" prefWidth="301.0" />
+      <Text layoutX="15.0" layoutY="177.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Nazwisko" />
+      <TextField id="sexField" fx:id="sexField" editable="false" layoutX="13.0" layoutY="223.0" prefHeight="25.0" prefWidth="301.0" />
+      <Text layoutX="15.0" layoutY="219.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Płeć" />
+      <TextField id="peselField" fx:id="peselField" editable="false" layoutX="13.0" layoutY="265.0" prefHeight="25.0" prefWidth="301.0" />
+      <Text layoutX="15.0" layoutY="261.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Pesel" />
+      <Text layoutX="454.0" layoutY="84.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Dostępne zawody">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <TextField fx:id="zawodyField" editable="false" layoutX="13.0" layoutY="94.0" prefHeight="25.0" prefWidth="301.0" />
+      <Text layoutX="15.0" layoutY="90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Wybrane zawody" />
+      <Button fx:id="sendButton" layoutX="15.0" layoutY="407.0" mnemonicParsing="false" onAction="#send" prefHeight="25.0" prefWidth="117.0" text="Wyślij zgłoszenie"/>
+    </children>
+</AnchorPane>

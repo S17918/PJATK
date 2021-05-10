@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="150.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="MP01.GUI.MenuController">
+    <children>
+        <Text layoutX="209.0" layoutY="41.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Menu Główne">
+            <font>
+                <Font name="Consolas" size="30.0" />
+            </font>
+        </Text>
+        <Separator layoutY="52.0" prefHeight="0.0" prefWidth="600.0" />
+        <Button id="exit" layoutX="252.0" layoutY="111.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="95.0" text="Wyjście" onAction="#exit"/>
+      <Button id="myProfile" layoutX="216.0" layoutY="63.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="168.0" text="Mój profil" onAction="#myProfile"/>
+    </children>
+</AnchorPane>

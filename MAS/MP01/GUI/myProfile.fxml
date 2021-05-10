@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="379.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="MP01.GUI.ProfileController">
+    <children>
+        <Text layoutX="218.0" layoutY="41.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Mój Profil">
+            <font>
+                <Font name="Consolas" size="30.0" />
+            </font>
+        </Text>
+        <Separator layoutY="52.0" prefHeight="0.0" prefWidth="600.0" />
+        <Button layoutX="353.0" layoutY="77.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="234.0" text="Wyświetl listę trenerów" />
+        <Button layoutX="353.0" layoutY="112.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="234.0" text="Zapisz na zawody" onAction="#zapiszNaZawody"/>
+        <Button layoutX="353.0" layoutY="147.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="234.0" text="Wyświetl wyniki" />
+        <Button layoutX="353.0" layoutY="182.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="234.0" text="Informacje o obiekcie sportowym" />
+        <Button layoutX="353.0" layoutY="217.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="234.0" text="Wolne miejsca na trybunach" />
+        <Button layoutX="353.0" layoutY="252.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="234.0" text="Lista zawodników" />
+        <Button layoutX="353.0" layoutY="287.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="234.0" text="Najlepszy zawodnik" />
+        <Button layoutX="353.0" layoutY="340.0" mnemonicParsing="false" onAction="#exit" prefHeight="25.0" prefWidth="234.0" text="Wyjście" />
+      <TextField editable="false" layoutX="16.0" layoutY="77.0" prefHeight="25.0" prefWidth="313.0" fx:id="nameField"/>
+      <TextField id="sexField" layoutX="16.0" layoutY="168.0" prefHeight="25.0" prefWidth="313.0" editable="false" fx:id="sexField"/>
+      <TextField id="surnameField" layoutX="16.0" layoutY="121.0" prefHeight="25.0" prefWidth="313.0" editable="false" fx:id="surnameField"/>
+      <TextField id="peselField" layoutX="16.0" layoutY="214.0" prefHeight="25.0" prefWidth="313.0" editable="false" fx:id="peselField"/>
+      <TextField id="pointsField" layoutX="13.0" layoutY="287.0" prefHeight="25.0" prefWidth="84.0" editable="false" fx:id="pointsField"/>
+      <TextField id="positionField" layoutX="129.0" layoutY="287.0" prefHeight="25.0" prefWidth="84.0" editable="false" fx:id="positionField"/>
+      <TextField id="recordField" layoutX="245.0" layoutY="287.0" prefHeight="25.0" prefWidth="84.0" editable="false" fx:id="recordField"/>
+      <Text layoutX="16.0" layoutY="72.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Imię" />
+      <Text layoutX="16.0" layoutY="117.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Nazwisko" />
+      <Text layoutX="17.0" layoutY="164.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Płeć" />
+      <Text layoutX="14.0" layoutY="212.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Pesel" />
+      <Text layoutX="13.0" layoutY="284.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Zdobyte punkty" />
+      <Text layoutX="151.0" layoutY="284.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Pozycja" />
+      <Text layoutX="244.0" layoutY="284.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Rekord osobisty" />
+      <Button layoutX="14.0" layoutY="340.0" mnemonicParsing="false" onAction="#close" prefHeight="25.0" prefWidth="234.0" text="Menu Główne" fx:id="closeButton"/>
+    </children>
+</AnchorPane>

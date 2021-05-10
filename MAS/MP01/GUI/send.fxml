@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+
+<AnchorPane prefHeight="81.0" prefWidth="414.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="MP01.GUI.SendController">
+   <children>
+      <Text layoutX="11.0" layoutY="24.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Czy na pewno chcesz przesłać zgłoszenie na zawody ?">
+         <font>
+            <Font name="Consolas" size="14.0" />
+         </font>
+      </Text>
+      <Button fx:id="closeButton" layoutX="14.0" layoutY="41.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="170.0" text="NIE" onAction="#doNotSend"/>
+      <Button layoutX="230.0" layoutY="41.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="170.0" text="TAK" fx:id="sendButton" onAction="#close"/>
+   </children>
+</AnchorPane>
