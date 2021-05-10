@@ -1,0 +1,5 @@
+GET,/weatherforecast,,
+GET,/api/students,,
+GET,/api/students,,
+GET,/api/students,,
+GET,/weatherforecast,,
