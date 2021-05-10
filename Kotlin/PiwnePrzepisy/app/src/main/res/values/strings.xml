@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Piwne Przepisy</string>
+    <string name="main_page">Strona Główna</string>
+    <string name="recipes">Przepisy</string>
+    <string name="share">Udostępnij</string>
+    <string name="search">Szukaj</string>
+</resources>

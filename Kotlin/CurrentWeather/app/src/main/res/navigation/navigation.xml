@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/current_weather_fragment">
+
+    <fragment
+        android:id="@+id/current_weather_fragment"
+        android:label="@string/current_weather"
+        android:name="pjatk.prm.s17918.currentweather.fragment.CurrentWeatherFragment"
+        tools:layout="@layout/fragment_current_weather"/>
+
+    <fragment
+        android:id="@+id/search_fragment"
+        android:label="@string/search"
+        android:name="pjatk.prm.s17918.currentweather.fragment.SearchFragment"
+        tools:layout="@layout/fragment_search"/>
+
+    <fragment
+        android:id="@+id/favourite_fragment"
+        android:label="@string/fav"
+        android:name="pjatk.prm.s17918.currentweather.fragment.FavouriteFragment"
+        tools:layout="@layout/fragment_favourite"/>
+
+</navigation>

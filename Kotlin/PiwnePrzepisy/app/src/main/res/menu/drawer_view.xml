@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/main_page_menu">
+        <item
+            android:id="@+id/main_page"
+            android:icon="@drawable/outline_cottage_24"
+            android:title="@string/main_page" />
+    </group>
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/recipes_menu">
+        <item
+            android:id="@+id/recipes"
+            android:icon="@drawable/outline_search_24"
+            android:title="@string/recipes"/>
+        <item
+            android:id="@+id/search"
+            android:icon="@drawable/outline_search_24"
+            android:title="@string/search"/>
+    </group>
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/misc_menu">
+        <item
+            android:id="@+id/"
+    </group>
+    <group
+        android:id="@+id/item_menu"
+        android:visible="false">
+        <item
+            android:id="@+id/share"
+            android:icon="@android:drawable/ic_menu_share"
+            android:title="@string/share"
+            app:showAsAction="always"/>
+    </group>
+</menu>
