@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Piwne Przepisy</string>
+    <string name="open_recipe">Otwórz Przepis</string>
+    <string name="beer_malt">Słody: </string>
+    <string name="beer_hops">Chmiele: </string>
+    <string name="beer_additives">Dodatki: </string>
+    <string name="next">Dalej</string>
+    <string name="step_0">Składniki</string>
+    <string name="step_1">Zacieranie</string>
+    <string name="step_1_5">Wysładzanie</string>
+    <string name="step_2">Warzenie</string>
+    <string name="step_3">Fermentacja</string>
+    <string name="step_3_5">Butelkowanie</string>
+    <string name="error">Nie wybrano przepisu</string>
+    <string name="noerror"> </string>
+    <string name="menu">Wróć do menu głównego</string>
+    <string name="burzliwa">Burzliwa</string>
+    <string name="cicha">Cicha</string>
+
+    <string-array name="beer_recipies">
+        <item>Wybierz przepis ...</item>
+        <item>@string/truskawkowe_lowe</item>
+        <item>@string/polskie_jasne</item>
+        <item>@string/ipa_poland</item>
+    </string-array>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="polskie_jasne">Polskie Jasne 12 BLG</string>
+    <string name="polskie_jasne_id">2</string>
+    <string name="mash_2">1. Zagrzać 12 litrów wody do 63°C\n\n2. Wsypać do wody ześrutowane słody\n\n3. 63°C przez 20 minut\n\n4. 72°C przez 40 minut aż do negatywnej próy jodowej\n\n5. 78°C przez 10 minut</string>
+    <string name="mash_out_2">1. Zagrzać 15 litrów wody do temperatury ok 78-80°C\n\n2. Wysładzać w temperaturze 78°C</string>
+    <string name="brew_2">Całkowity czas gotowania: 70 minut\n\n1. Dodać chmiel Marynka 25g po 10 minutach od początku gotowania\n\n2. Gotować przez 40 minut\n\n3. Dodać chmiel Lubelski 20g\n\n4. Gotować przez 10 minut\n\n5. Dodać chmiel Lubelski 20g\n\n6. Gotować przez 10 minut\n\n7. Po tym czasie można przystąpić do dalszych czynności</string>
+    <string name="ferment_burzliwa_2">Temperatura: 18-21°C\n\nCzas trwania: 7-10 dni</string>
+    <string name="ferment_cicha_2">Temperatura: 18-21°C\n\nCzas trwania: 7 dni</string>
+    <string name="ferment_add_2"> </string>
+    <string name="bottle_2">Butelkować z użyciem 6g glukozy na 1 litr piwa\n\nPo około 10 dniach leżakowania, piwo jest gotowe do spożycia</string>
+
+    <string-array name="malt_2">
+        <item>PILZNEŃSKI 3,7 KG</item>
+        <item>KARMELOWY 0,3 KG</item>
+    </string-array>
+
+    <string-array name="hops_2">
+        <item>LUBELSKI 40g</item>
+        <item>MARYNKA 25g</item>
+    </string-array>
+
+    <string-array name="additives_2">
+        <item>BRAK</item>
+    </string-array>
+
+</resources>

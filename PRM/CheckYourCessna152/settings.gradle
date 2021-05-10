@@ -1,0 +1,2 @@
+rootProject.name='CheckYourCessna152'
+include ':app'

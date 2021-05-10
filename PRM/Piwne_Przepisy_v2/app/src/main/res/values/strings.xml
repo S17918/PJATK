@@ -1,0 +1,13 @@
+<resources>
+    <string-array name="options">
+        <item>Beers</item>
+        <item>Recipes</item>
+        <item>About Us</item>
+    </string-array>
+
+    <string name="app_name">Beer Recipes</string>
+    <string name="ipa_poland">IPA Made in Poland 14 BLG</string>
+    <string name="ipa_poland_description">The beer revolution in Poland is not only about new craft breweries and dozens of premiere beers each month. A revolution is also taking place in hop plantations, where new-wave varieties with very interesting, fruity and floral aromas are beginning to appear. Try them out and brew a heavily hopped Polish IPA based on varieties bred by native growers. Time for Made In Poland!</string>
+    <string name="polskie_jasne">Polish Lager 12 BLG</string>
+    <string name="polskie_jasne_description">Know your hops! Classic Polish varieties of hops that have entered the canon of world brewing - Marynka and Lubelski hops. Discover their aromas by brewing pale beer on Polish malt and hopping with a traditional variety of hops. If no one would accuse you - you do not know yours!</string>
+</resources>

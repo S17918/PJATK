@@ -1,0 +1,13 @@
+<resources>
+    <string-array name="options">
+        <item>Piwa</item>
+        <item>Przepisy</item>
+        <item>O nas</item>
+    </string-array>
+
+    <string name="app_name">Piwne Przepisy</string>
+    <string name="ipa_poland">IPA na polskim chmielu 14 BLG</string>
+    <string name="ipa_poland_description">Piwna rewolucja w Polsce to nie tylko nowe browary rzemieślnicze i dziesiątki premierowych piw każdego miesiąca. Rewolucja dokonuje się również na plantacjach chmielu, gdzie zaczynają pojawiać się nowofalowe odmiany o bardzo ciekawych, owocowych i kwiatowych aromatach. Wypróbuj je i uwarz mocno chmielone, polskie IPA oparte na odmianach wyhodowanych u rodzimych plantatorów. Czas na Made In Poland !</string>
+    <string name="polskie_jasne">Polskie Jasne 12 BLG</string>
+    <string name="polskie_jasne_description">Poznaj swój chmiel! Klasyczne polskie odmiany chmielu, które weszły do kanonu światowego piwowarstwa – chmiel Marynka i Lubelski. Poznaj ich aromat warząc jasne piwo na polskim słodzie i chmieląc tradycyjną odmianą chmielu. Żeby nikt nie zarzucił – cudze chwalicie swego nie znacie!</string>
+</resources>

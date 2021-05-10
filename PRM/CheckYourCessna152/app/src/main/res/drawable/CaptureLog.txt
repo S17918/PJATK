@@ -1,0 +1,74 @@
+8:50:56 PM | [ClientSocket]: Attempting to connect to host https://galactus.automute.us:443 with connect code 23165DE2
+8:50:56 PM | [GameMemReader]: Connected to Among Us process (17208)
+8:50:56 PM | [GameVerifier]: Client verification: PASS.
+8:50:56 PM | [GameMemReader]: State changed to LOBBY
+8:50:56 PM | [PlayerChange]: Fogu: Joined
+8:50:56 PM | [PlayerChange]: 2m0r4: Joined
+8:50:56 PM | [PlayerChange]: dobra es: Joined
+8:50:56 PM | [PlayerChange]: Luqa Toni: Joined
+8:50:56 PM | [PlayerChange]: Oski boski: Joined
+8:50:58 PM | [PlayerChange]: Oski boski: ChangedColor
+8:51:11 PM | [ClientSocket]: Attempting to connect to host https://galactus.automute.us:443 with connect code 31A0E582
+8:51:12 PM | [ClientSocket]: Connected successfully!
+8:51:12 PM | [ClientSocket]: Connection code (31A0E582) sent to server.
+8:51:12 PM | [GameMemReader]: State changed to LOBBY
+8:51:12 PM | [PlayerChange]: Fogu: ForceUpdated
+8:51:12 PM | [PlayerChange]: 2m0r4: ForceUpdated
+8:51:12 PM | [PlayerChange]: dobra es: ForceUpdated
+8:51:12 PM | [PlayerChange]: Luqa Toni: ForceUpdated
+8:51:12 PM | [PlayerChange]: Oski boski: ForceUpdated
+8:51:12 PM | [ClientSocket]: Room code (NMZDQQ) sent to server.
+8:51:25 PM | [PlayerChange]: Pubbie: Joined
+8:51:27 PM | [PlayerChange]: Saszka: Joined
+8:52:14 PM | [GameMemReader]: State changed to TASKS
+8:52:28 PM | [ClientSocket]: Connection lost!
+8:52:52 PM | [PlayerChange]: 2m0r4: Died
+8:52:59 PM | [PlayerChange]: Oski boski: Died
+8:52:59 PM | [GameMemReader]: State changed to DISCUSSION
+8:55:31 PM | [ClientSocket]: Connected successfully!
+8:55:31 PM | [ClientSocket]: Connection code (31A0E582) sent to server.
+8:55:31 PM | [GameMemReader]: State changed to DISCUSSION
+8:55:31 PM | [PlayerChange]: Fogu: ForceUpdated
+8:55:31 PM | [PlayerChange]: 2m0r4: ForceUpdated
+8:55:31 PM | [PlayerChange]: dobra es: ForceUpdated
+8:55:31 PM | [PlayerChange]: Luqa Toni: ForceUpdated
+8:55:31 PM | [PlayerChange]: Oski boski: ForceUpdated
+8:55:31 PM | [PlayerChange]: Pubbie: ForceUpdated
+8:55:31 PM | [PlayerChange]: Saszka: ForceUpdated
+8:55:31 PM | [ClientSocket]: Room code (NMZDQQ) sent to server.
+8:55:34 PM | [GameMemReader]: State changed to TASKS
+8:56:52 PM | [GameMemReader]: State changed to LOBBY
+8:56:52 PM | [PlayerChange]: Fogu: Died
+8:56:59 PM | [PlayerChange]: 2m0r4: Left
+8:56:59 PM | [PlayerChange]: dobra es: Left
+8:56:59 PM | [PlayerChange]: Luqa Toni: Left
+8:56:59 PM | [PlayerChange]: Oski boski: Left
+8:56:59 PM | [PlayerChange]: Pubbie: Left
+8:56:59 PM | [PlayerChange]: Saszka: Left
+8:56:59 PM | [ClientSocket]: Room code (NMZDQQ) sent to server.
+8:56:59 PM | [PlayerChange]: 2m0r4: Joined
+8:56:59 PM | [PlayerChange]: Saszka: Joined
+8:57:00 PM | [PlayerChange]: dobra es: Joined
+8:57:04 PM | [PlayerChange]: Pubbie: Joined
+8:57:05 PM | [PlayerChange]: Luqa Toni: Joined
+8:57:07 PM | [PlayerChange]: Oski boski: Joined
+8:57:22 PM | [GameMemReader]: State changed to MENU
+8:57:28 PM | [GameMemReader]: State changed to LOBBY
+8:57:28 PM | [PlayerChange]: 2m0r4: Left
+8:57:28 PM | [PlayerChange]: Saszka: Left
+8:57:28 PM | [PlayerChange]: dobra es: Left
+8:57:28 PM | [PlayerChange]: Pubbie: Left
+8:57:28 PM | [PlayerChange]: Luqa Toni: Left
+8:57:28 PM | [PlayerChange]: Oski boski: Left
+8:57:28 PM | [ClientSocket]: Room code (MRFNJF) sent to server.
+8:58:01 PM | [PlayerChange]: Luqa Toni: Joined
+8:58:02 PM | [PlayerChange]: Saszka: Joined
+8:58:02 PM | [PlayerChange]: 2m0r4: Joined
+8:58:09 PM | [PlayerChange]: Oski boski: Joined
+8:58:23 PM | [PlayerChange]: Pubbie: Joined
+8:58:29 PM | [PlayerChange]: Luqa Toni: ChangedColor
+8:58:35 PM | [PlayerChange]: dobra es: Joined
+8:59:27 PM | [GameMemReader]: State changed to TASKS
+8:59:44 PM | [PlayerChange]: Oski boski: Died
+9:00:47 PM | [PlayerChange]: Pubbie: Died
+9:00:53 PM | [GameMemReader]: State changed to DISCUSSION

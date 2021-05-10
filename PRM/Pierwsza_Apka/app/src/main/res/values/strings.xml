@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Moja pierwsza apka</string>
+    <string name="hint">Wpisz wiadomość</string>
+    <string name="send">Wyślij wiadomość</string>
+    <string name="chooser">Wysyłanie wiadomości ...</string>
+    <string name="person">Do</string>
+</resources>

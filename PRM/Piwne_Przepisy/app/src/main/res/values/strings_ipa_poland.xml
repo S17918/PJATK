@@ -1,0 +1,32 @@
+<resources>
+    <string name="ipa_poland">IPA Made in Poland 14 BLG</string>
+    <string name="ipa_poland_id">3</string>
+    <string name="mash_3">1. Zagrzać 18 litrów wody do temperatury 71°C\n\n2. Wsypać do wody ześrutowane słody\n\n3. 67°C przez 90 minut do negatywnej próby jodowej\n\n4. 78°C przez 5 minut</string>
+    <string name="mash_out_3">1. Zagrzać 14 litórw wody do temperatury ok 80°C\n\n2. Wysładzać w temperaturze 80°C</string>
+    <string name="brew_3">Całkowity czas gotowania: 60 minut\n\n1. Dodać chmiel Lunga 30g od początku gotowania\n\n2. Gotować przez 45 minut\n\n3. Dodać chmiel Puławski 37g\n\n4. Gotować przez 5 minut\n\n5. Dodać chmiele Cascade PL 62g oraz Oktawia 37g\n\n6. Gotować przez 10 minut\n\nPozostały chmiel będzie użyty podczas cichej fermentacji</string>
+    <string name="ferment_burzliwa_3">Temperatura: 18-21°C\n\nCzas trwania: 7-10 dni</string>
+    <string name="ferment_cicha_3">Temperatura: 18-21°C\n\nCzas trwania: 6-7 dni</string>
+    <string name="ferment_add_3">Dodać 62g chmielu Cascade PL oraz 37g chmielu Chinook PL</string>
+    <string name="bottle_3">Butelkować z użyciem 6g glukozy na 1 litr piwa\n\nPo około 30 dniach leżakowania, piwo jest gotowe do spożycia</string>
+
+    <string-array name="malt_3">
+        <item>PALE ALE 5,25 KG</item>
+        <item>PSZENICZNY 0,5 KG</item>
+        <item>KARMELOWY 30EBC 0,35 KG</item>
+    </string-array>
+
+    <string-array name="hops_3">
+        <item>LUNGA 30g</item>
+        <item>PUŁAWSKI 37g</item>
+        <item>OKTAWIA 37g</item>
+        <item>CASCADE PL 62g</item>
+        <item>CASCADE PL 62g</item>
+        <item>CHINOOK PL 37g</item>
+    </string-array>
+
+    <string-array name="additives_3">
+        <item>BRAK</item>
+    </string-array>
+
+
+</resources>

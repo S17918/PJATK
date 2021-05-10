@@ -1,0 +1,27 @@
+<resources>
+    <string name="truskawkowe_lowe">Truskawkowe Lowe 13 BLG</string>
+    <string name="truskawkowe_lowe_id">1</string>
+    <string name="mash_1">1. Zagrzać 12 litrów wody do temperatury 72°C\n\n2. Wsypać do wody ześrutowane słody\n\n3. Po dodaniu słodu temperatura powinna ustabilizować się na ok 69°C\n\n4. 69°C przez 60 minut do negatywnej próby jodowej\n\n5. 78°C przez 10 minut</string>
+    <string name="mash_out_1">1. Zagrzać 15 litrów wody do temperatury ok 78-80°C\n\n2. Wysładzać w temperaturze 78°C</string>
+    <string name="brew_1">Całkowity czas gotowania: 60 minut\n\n1. Dodać chmiel Mosaic 15g od początku gotowania\n\n2. Gotować przez 60 minut\n\n3. Dodać chmiel Eureka 30g po gotwaniu na wyłączonym palniku\n\n4. Po 10 minutach można przystąpić do dalszych czynności</string>
+    <string name="ferment_burzliwa_1">Temperatura: 18-21°C\n\nCzas trwania: 10 dni</string>
+    <string name="ferment_cicha_1">Temperatura: 18-21 °C\n\n Czas trwania: 5 dni</string>
+    <string name="ferment_add_1">W pierwszym dniu fermentacji cichej dodać:\n\n1. Puree Truskawkowe 1kg - dokładnie wymieszać statając się nie natlenić\n\n2. Chmiel Mosaic 30g\n\nPo 5 dniach zaleca sie ponownie zlać piwo znad osadu owocowego\n\nPozostawić piwo na 2-3 dni</string>
+    <string name="bottle_1">Butelkować z użyciem 6g glukozy na 1 litr piwa\n\nPo około 20 dniach leżakowania, piwo jest gotowe do spożycia</string>
+
+    <string-array name="malt_1">
+        <item>PSZENICZNY 2,3 KG</item>
+        <item>PILZNEŃSKI 1,3 KG</item>
+        <item>PRAŻONA PSZENICA 0,3 KG</item>
+    </string-array>
+
+    <string-array name="hops_1">
+        <item>MOSAIC 45g</item>
+        <item>EUREKA 30g</item>
+    </string-array>
+
+    <string-array name="additives_1">
+        <item>PULPA TRUSKAWKOWA 1 KG</item>
+    </string-array>
+
+</resources>
